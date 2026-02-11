@@ -1,3 +1,6 @@
 # PRISM2
 
-use python scripts/experiments/run_prism2_experiments.py  to run experiment with default hyperparameter
+To run the experiments using default hyperparameters, execute the following command:
+
+```bash
+python scripts/experiments/run_prism2_experiments.py
